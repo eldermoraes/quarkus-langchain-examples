@@ -1,11 +1,31 @@
 Hi I want to get info on my booking
 
+"Hello! I can help you with that. Please provide me with your booking number, customer name, and customer surname so that I can retrieve the information for you."
+
 I'm Klaus Heisler
+
+"I couldn't find any booking information with the details provided. Could you please confirm the booking number associated with your reservation? It will help me locate your booking more accurately."
 
 123-789
 
+" I apologize for the inconvenience, but it seems that I couldn't locate any booking information with the provided details. Is there a possibility that the booking might be under a different name or surname?"
+
 I'm sorry it's 123-456
+
+"I have found the booking details:
+
+- Booking Number: 123-456
+- Customer Name: Klaus Heisler
+- Booking Dates: March 19, 2024 - March 21, 2024
+
+How can I assist you with this booking today?"
 
 I want to cancel my booking I have another plan
 
+"I'm sorry, but according to our cancellation policy, bookings with a duration of less than 3 days cannot be canceled. Since your booking falls within this category, I'm unable to cancel it for you. If you have any other questions or need further assistance, please let me know."
+
 Can I get a refund?
+
+" I'm sorry, but based on our liability policy, we do not provide refunds for cancellations that do not meet the cancellation policy requirements. Since your booking falls within the category where cancellations are not permitted, we are unable to offer a refund in this case. If you have any other questions or concerns, please feel free to let me know."
+
+
